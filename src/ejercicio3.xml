@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE productos SYSTEM "ejercicio3.dtd">
+<productos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:noNamespaceSchemaLocation="ejercicio3.xsd">
+    <producto>
+        <monitor>
+            <codigo>S01</codigo>
+        </monitor>
+    </producto>
+    <producto>
+        <teclado>
+            <codigo>S02</codigo>
+        </teclado>
+    </producto>
+    <producto>
+        <raton>
+            <codigo>S03</codigo>
+        </raton>
+    </producto>
+    <producto>
+        <raton>
+            <codigo>S03</codigo>
+            <descripcion>Ratón inalambrico con puerto usb</descripcion>
+        </raton>
+    </producto>
+    <producto>
+        <teclado>
+            <codigo>S02</codigo>
+            <descripcion>Teclado alambrico con cable usb</descripcion>
+        </teclado>
+    </producto>
+</productos>
